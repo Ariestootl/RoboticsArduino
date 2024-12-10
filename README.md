@@ -1,2 +1,2 @@
 # RoboticsArduino
-Code for Arduino Mircochip UNO
+Code for Arduino Microchip UNO
